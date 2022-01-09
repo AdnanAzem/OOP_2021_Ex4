@@ -7,4 +7,7 @@ This project is about Graph theory, Pokemons and more! we wrote a code for getti
 <h2>Game GUI:</h2>
 <img src="https://github.com/AdnanAzem/OOP_2021_Ex4/blob/main/Ex4/pics/Game.jpeg" alt="pokemon" width="750" height="500">
 
+<h2>Short Video:</h2>
+<img src="https://github.com/AdnanAzem/OOP_2021_Ex4/blob/main/Ex4/pics/shortVideo.gif" alt="pokemon" width="750" height="500">
+
 you can read more details in this repository's <a href="https://github.com/AdnanAzem/OOP_2021_Ex4/wiki">wiki page</a>
